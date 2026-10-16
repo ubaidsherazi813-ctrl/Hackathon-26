@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Baari (باری) · Smart Queue & Wait-Time Optimizer
 
 > **Skip the line. Keep your turn.**
@@ -147,3 +148,7 @@ Once the deployment finishes:
 
 ## 📄 License
 ISC License.
+=======
+# Hackathon-26
+Smart Queue Management System for public services with digital tokens, live queue tracking, and estimated waiting times.   Copy description
+>>>>>>> origin/main
